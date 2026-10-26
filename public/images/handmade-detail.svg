@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#FAF7F0"/>
+  <path d="M200 150 Q300 50 400 150 Q450 250 400 350 Q300 450 200 350 Q150 250 200 150 Z" fill="#F0E8DA" stroke="#B89A62" stroke-width="2"/>
+  <path d="M240 190 Q280 230 320 190 Q360 230 400 190" fill="none" stroke="#7D8873" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="280" cy="270" r="10" fill="#B89A62" opacity="0.7"/>
+  <circle cx="360" cy="270" r="8" fill="#B89A62" opacity="0.7"/>
+  <text x="300" y="550" font-family="serif" font-size="18" fill="#292821" text-anchor="middle">Handmade Detail</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#FAF7F0"/>
+  <rect x="200" y="150" width="200" height="400" fill="#F0E8DA" stroke="#B89A62" stroke-width="2"/>
+  <path d="M220 180 Q300 120 380 180 Q380 220 300 220 Q220 220 220 180 Z" fill="#F0E8DA" stroke="#7D8873" stroke-width="2"/>
+  <circle cx="250" cy="280" r="8" fill="#B89A62" opacity="0.7"/>
+  <circle cx="330" cy="280" r="8" fill="#B89A62" opacity="0.7"/>
+  <text x="300" y="550" font-family="serif" font-size="18" fill="#292821" text-anchor="middle">Blouse Embroidery</text>
+</svg>

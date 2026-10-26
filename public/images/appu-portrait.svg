@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#FAF7F0"/>
+  <circle cx="300" cy="250" r="80" fill="#F0E8DA" stroke="#B89A62" stroke-width="2"/>
+  <circle cx="300" cy="250" r="30" fill="#B89A62" opacity="0.3"/>
+  <path d="M240 320 Q300 380 360 320" fill="none" stroke="#292821" stroke-width="2" stroke-linecap="round"/>
+  <rect x="280" y="400" width="40" height="60" fill="#292821"/>
+  <text x="300" y="550" font-family="serif" font-size="18" fill="#292821" text-anchor="middle">Appu Portrait</text>
+</svg>

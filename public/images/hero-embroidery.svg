@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <rect width="1000" height="1000" fill="#FAF7F0"/>
+  <path d="M400 200 Q500 100 600 200 Q700 300 700 400 Q700 500 600 600 Q500 700 400 600 Q300 500 300 400 Q300 300 400 200 Z" fill="#F0E8DA" stroke="#B89A62" stroke-width="3"/>
+  <path d="M440 240 Q480 280 520 240 Q560 280 600 240" fill="none" stroke="#7D8873" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="480" cy="320" r="15" fill="#B89A62" opacity="0.6"/>
+  <circle cx="560" cy="320" r="12" fill="#B89A62" opacity="0.6"/>
+  <rect x="485" y="480" width="30" height="120" fill="#292821"/>
+  <text x="500" y="900" font-family="serif" font-size="24" fill="#292821" text-anchor="middle">Hero Embroidery</text>
+</svg>

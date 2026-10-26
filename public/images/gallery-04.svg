@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <rect width="500" height="500" fill="#FAF7F0"/>
+  <path d="M50 200 Q150 100 250 200 Q350 300 250 400 Q150 500 50 400 Q0 300 50 200 Z" fill="#F0E8DA" stroke="#B89A62" stroke-width="2"/>
+  <circle cx="120" cy="250" r="8" fill="#B89A62" opacity="0.7"/>
+  <circle cx="250" cy="230" r="8" fill="#B89A62" opacity="0.7"/>
+  <circle cx="380" cy="270" r="8" fill="#B89A62" opacity="0.7"/>
+  <text x="250" y="460" font-family="serif" font-size="16" fill="#292821" text-anchor="middle">Gallery Image</text>
+</svg>
